@@ -64,16 +64,16 @@ body{
 /* Responsive  */
 /* Mobile size  */
 
-@media screen and (max-width :425px){
+@media screen and (max-width :426px){
     .main-contner{
         height: 76vh;
-        width: 78vw;
+        width: 80vw;
     }
 }
 
 /* Tab size  */
 
-@media screen and (min-width: 425px) and (max-width: 768px){
+@media screen and (min-width: 427px) and (max-width: 768px){
     .main-contner{
         height: 83vh;
         width: 75vw;
